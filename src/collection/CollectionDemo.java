@@ -11,13 +11,14 @@ public class CollectionDemo {
         c.add(12);
         c.add("狗娃");
         c.add(3.14);
+        c.clear();
         System.out.println(c);
 
-        Collection c2 = new ArrayList();
-        c2.add("美美");
-        c2.add("冰冰");
-        //把c2中所有元素添加到c集合中
-        c.addAll(c2);
-        System.out.println(c);
+//        Collection c2 = new ArrayList();
+//        c2.add("美美");
+//        c2.add("冰冰");
+//        //把c2中所有元素添加到c集合中
+//        c.addAll(c2);
+//        System.out.println(c);
     }
 }
