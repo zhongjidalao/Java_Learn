@@ -1,6 +1,8 @@
-package hashset;
+package LinkedList;
 
 import java.util.LinkedList;
+
+//要求：给LinkedList按id重新排序
 
 class Person2{
     String name;
@@ -20,7 +22,7 @@ class Person2{
     }
 }
 
-public class HashSetTest {
+public class LinkedListTest {
     public static void main(String[] args){
         LinkedList list = new LinkedList();
         list.add(new Person2("张三",19));
