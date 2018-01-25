@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5c7de06-120a-4317-b116-c64fd64e5ea2" name="Default" comment="HashSet">
+    <list default="true" id="a5c7de06-120a-4317-b116-c64fd64e5ea2" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListTestTwo.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/hashset/HashSetTest.java" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListTest.java" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/src/Day_2/Demo.java" afterPath="$PROJECT_DIR$/src/Day_2/Demo.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_3/Demo3.java" afterPath="$PROJECT_DIR$/src/Day_3/Demo3.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_3/Test.java" afterPath="$PROJECT_DIR$/src/Day_3/Test.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_4/Demo4.java" afterPath="$PROJECT_DIR$/src/Day_4/Demo4.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_4/FunctionDemo.java" afterPath="$PROJECT_DIR$/src/Day_4/FunctionDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_4/Test4.java" afterPath="$PROJECT_DIR$/src/Day_4/Test4.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_5/ArrayDemo.java" afterPath="$PROJECT_DIR$/src/Day_5/ArrayDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_5/ArrayDemo2.java" afterPath="$PROJECT_DIR$/src/Day_5/ArrayDemo2.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_5/ArrayTest.java" afterPath="$PROJECT_DIR$/src/Day_5/ArrayTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_6/CarDemo.java" afterPath="$PROJECT_DIR$/src/Day_6/CarDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_6/PersonDemo.java" afterPath="$PROJECT_DIR$/src/Day_6/PersonDemo.java" />
+      <change beforePath="$PROJECT_DIR$/src/Day_7/ConsDemo.java" afterPath="$PROJECT_DIR$/src/Day_7/ConsDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +31,7 @@
       <file leaf-file-name="HashSetDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hashset/HashSetDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
+            <state relative-caret-position="570">
               <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
               <folding>
                 <element signature="e#531#532#0" expanded="true" />
@@ -28,12 +41,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedListTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="90">
               <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListTestTwo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedListTestTwo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IteratorDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/iterator/IteratorDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/hashset/HashSetTest.java" />
         <option value="$PROJECT_DIR$/src/hashset/LinkedListTest.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/LinkedListTestTwo.java" />
       </list>
     </option>
   </component>
@@ -90,11 +139,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="443" />
-    <option name="y" value="-8" />
-    <option name="width" value="1193" />
-    <option name="height" value="687" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -114,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,7 +178,14 @@
               <item name="Java_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Learn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="hashset" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
+              <item name="IteratorDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Java_Learn" type="b2602c69:ProjectViewProjectNode" />
@@ -144,15 +198,16 @@
               <item name="Java_Learn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedListTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="LinkedListTestTwo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,7 +447,12 @@
       <workItem from="1515641407129" duration="3967000" />
       <workItem from="1515724064070" duration="599000" />
       <workItem from="1515812038882" duration="8052000" />
-      <workItem from="1515917613879" duration="1472000" />
+      <workItem from="1515917613879" duration="4932000" />
+      <workItem from="1516246117936" duration="811000" />
+      <workItem from="1516862653075" duration="57000" />
+      <workItem from="1516863508549" duration="43000" />
+      <workItem from="1516877369353" duration="181000" />
+      <workItem from="1516878367779" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1511887869986</created>
@@ -471,40 +531,48 @@
       <option name="project" value="LOCAL" />
       <updated>1515904652820</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="LinkedList练习">
+      <created>1515921070621</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1515921070621</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68210000" />
+    <option name="totallyTimeSpent" value="72884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32590234" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718447" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280255" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122395836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12552084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -525,20 +593,14 @@
     <MESSAGE value="集合" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="HashSet" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashSet" />
+    <MESSAGE value="LinkedList练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="LinkedList练习" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/throwable/ThrowableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day_13/ThreadDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -731,13 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="803" column="16" lean-forward="false" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/io/PrintStream.java" />
     <entry file="file://$PROJECT_DIR$/src/object/ObjectDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -745,13 +801,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="160" column="6" lean-forward="true" selection-start-line="160" selection-start-column="6" selection-end-line="160" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/string/StringDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -759,13 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="360" column="0" lean-forward="true" selection-start-line="360" selection-start-column="0" selection-end-line="360" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Collection.java" />
     <entry file="file://$PROJECT_DIR$/src/test/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -773,27 +817,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="106" column="39" lean-forward="true" selection-start-line="106" selection-start-column="39" selection-end-line="106" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="70" column="80" lean-forward="false" selection-start-line="70" selection-start-column="80" selection-end-line="70" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="112" column="0" lean-forward="true" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/AbstractList.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/List.java" />
     <entry file="file://$PROJECT_DIR$/src/collection/Demo2.java" />
     <entry file="file://$PROJECT_DIR$/src/collection/Demo1.java" />
     <entry file="file://$PROJECT_DIR$/src/Day_2/Demo.java">
@@ -846,23 +872,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="150" column="0" lean-forward="true" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/iterator/IteratorDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Object.java" />
     <entry file="file://$PROJECT_DIR$/src/hashset/HashSetDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
+        <state relative-caret-position="570">
           <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
           <folding>
             <element signature="e#531#532#0" expanded="true" />
@@ -871,11 +892,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedListTestTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterator/IteratorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -932,6 +976,18 @@
       <state key="ModuleStructureConfigurable.UI">
         <settings>
           <last-edited>Java_Learn</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
