@@ -10,6 +10,5 @@ public class Hello {
         int b = b1 + b2;
         
         System.out.println(b);
-
     }
 }
