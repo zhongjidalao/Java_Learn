@@ -55,6 +55,7 @@ public class HashSetTest {
                 System.out.println("用户名与密码已存在");
             }
 
+            //遍历HashSet
             for(Iterator it=users.iterator(); it.hasNext();){
                 System.out.println(it.next());
             }
