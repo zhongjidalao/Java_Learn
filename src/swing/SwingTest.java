@@ -11,18 +11,26 @@ public class SwingTest {
                 SimpleFrame frame = new SimpleFrame();
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 frame.setVisible(true);
+                frame.setTitle("测试GUI");
             }
         });
     }
 }
 
 class SimpleFrame extends JFrame{
-    private static final int DEFAULT_WIDTH = 300;
-    private static final int DEFAULT_HEIGHT = 200;
+//    private static final int DEFAULT_WIDTH = 300;
+//    private static final int DEFAULT_HEIGHT = 200;
 
     public SimpleFrame(){
-        setSize(DEFAULT_WIDTH,DEFAULT_HEIGHT);
-        setTitle("测试GUI");
-        setLocation(750,400);
+        Toolkit kit = Toolkit.getDefaultToolkit();
+        Dimension screenSize = kit.getScreenSize();
+        int screenWidth = screenSize.width;
+        int screenHeight = screenSize.height;
+
+        setSize(screenWidth/2,screenHeight/2);
+        setLocationByPlatform(true);
+
+        Image img = new ImageIcon("/img/02.png").getImage();
+        setIconImage(img);
     }
 }
