@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61796c96-91ec-478b-8d5e-a88043864dca" name="Default" comment="0.1">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Dan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/ListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/EnumMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/MapTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/CollectionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/CollectionDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swing/NotHemmoWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swing/NotHemmoWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/EqualsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +61,42 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.ListTest">
+  <component name="RunManager" selected="Application.EnumMapTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.EnumMapTest" />
+      <module name="Java_Learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.EqualsTest" />
+      <module name="Java_Learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,41 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotHemmoWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swing.NotHemmoWord" />
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.MapTest" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swing.SwingTest" />
-      <module name="Java_Learn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TemplateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="template.TemplateDemo" />
-      <module name="Java_Learn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="template.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumMapTest" />
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.EqualsTest" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.SwingTest" />
-        <item itemvalue="Application.TemplateDemo" />
-        <item itemvalue="Application.NotHemmoWord" />
       </list>
     </recent_temporary>
   </component>
@@ -205,8 +200,20 @@
       <workItem from="1575111426760" duration="2087000" />
       <workItem from="1575727370919" duration="32000" />
       <workItem from="1583140065539" duration="3771000" />
-      <workItem from="1583231036979" duration="10172000" />
+      <workItem from="1583231036979" duration="15831000" />
+      <workItem from="1583913384046" duration="2082000" />
+      <workItem from="1584090361864" duration="10000" />
+      <workItem from="1584090575406" duration="5827000" />
+      <workItem from="1584351370992" duration="10022000" />
     </task>
+    <task id="LOCAL-00001" summary="0.1">
+      <created>1583591247634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583591247634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,47 +228,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="714" y="105" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583143709027" />
-    <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1575111592531">
+    <state x="1170" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1584362990942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="594" y="113" key="CommitChangelistDialog2/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575111592531" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583590870615">
+    <state x="1170" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584362990942" />
+    <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1583591247059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583591247059" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584368030943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575727394639" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583590870615" />
-    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1583590540349">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584368030943" />
+    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1584368604903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575113515348" />
-    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583590540349" />
-    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1583590540349">
+    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584368604903" />
+    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1584368604903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575113515348" />
-    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583590540349" />
-    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1583590540349">
+    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584368604903" />
+    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1584368604903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575113515348" />
-    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583590540349" />
-    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1583590540349">
+    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584368604903" />
+    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1584368604903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575113515348" />
-    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583590540349" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1583590898062">
+    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584368604903" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1584368038287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575727379486" />
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583590898062" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575111567207">
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584368038287" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1583747569579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575111567207" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1575113043426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575113043426" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583747569579" />
   </component>
 </project>
