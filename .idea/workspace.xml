@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61796c96-91ec-478b-8d5e-a88043864dca" name="Default" comment="0.1">
-      <change afterPath="$PROJECT_DIR$/src/collection/EnumMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/SetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/EqualsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/TreeMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/TreeMapTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,15 +67,29 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.EnumMapTest">
+  <component name="RunManager" selected="Application.SetTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.EnumMapTest" />
+    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_4.FunctionDemo" />
+      <module name="Java_Learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.PropertiesTest" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -87,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.EqualsTest" />
+    <configuration name="SetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.SetTest" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -101,21 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
-      <module name="Java_Learn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ListTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_3.Test" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="Day_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.MapTest" />
+    <configuration name="TreeMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.TreeMapTest" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -161,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnumMapTest" />
-        <item itemvalue="Application.MapTest" />
-        <item itemvalue="Application.EqualsTest" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.SetTest" />
+        <item itemvalue="Application.PropertiesTest" />
+        <item itemvalue="Application.TreeMapTest" />
+        <item itemvalue="Application.FunctionDemo" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +211,14 @@
       <workItem from="1583913384046" duration="2082000" />
       <workItem from="1584090361864" duration="10000" />
       <workItem from="1584090575406" duration="5827000" />
-      <workItem from="1584351370992" duration="10022000" />
+      <workItem from="1584351370992" duration="29268000" />
+      <workItem from="1585296928046" duration="153000" />
+      <workItem from="1585297143370" duration="18000" />
+      <workItem from="1585297180108" duration="44000" />
+      <workItem from="1585298850303" duration="19000" />
+      <workItem from="1585298890380" duration="2883000" />
+      <workItem from="1585302292875" duration="4588000" />
+      <workItem from="1585397397095" duration="6050000" />
     </task>
     <task id="LOCAL-00001" summary="0.1">
       <created>1583591247634</created>
@@ -213,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583591247634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0.1">
+      <created>1584368664882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584368664882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +245,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="0.1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1585400218170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585400218170" />
     <state x="714" y="105" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583143709027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -232,36 +257,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584362990942" />
-    <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1583591247059">
+    <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1584368676420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="594" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583591247059" />
+    <state x="594" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584368676420" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584368030943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575727394639" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584368030943" />
-    <state width="914" height="282" key="GridCell.Tab.0.bottom" timestamp="1584368604903">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1585404241814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584368604903" />
-    <state width="914" height="282" key="GridCell.Tab.0.center" timestamp="1584368604903">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585404241814" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1585404241814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584368604903" />
-    <state width="914" height="282" key="GridCell.Tab.0.left" timestamp="1584368604903">
+    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585404241814" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1585404241814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584368604903" />
-    <state width="914" height="282" key="GridCell.Tab.0.right" timestamp="1584368604903">
+    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585404241814" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1585404241814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584368604903" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1584368038287">
+    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585404241814" />
+    <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1585404215275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1080.-408.1080.1880@0.0.1920.1040" timestamp="1575727379486" />
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584368038287" />
+    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585404215275" />
+    <state width="914" height="347" key="GridCell.Tab.1.center" timestamp="1585404215275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585404215275" />
+    <state width="914" height="347" key="GridCell.Tab.1.left" timestamp="1585404215274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585404215274" />
+    <state width="914" height="347" key="GridCell.Tab.1.right" timestamp="1585404215275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585404215275" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1585401338764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585401338764" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1583747569579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
