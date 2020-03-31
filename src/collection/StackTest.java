@@ -1,6 +1,6 @@
-package Day_4;
+package collection;
 
-public class Demo4 {
+public class StackTest {
     public static void main(String[] args) {
 
     }
