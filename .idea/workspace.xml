@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61796c96-91ec-478b-8d5e-a88043864dca" name="Default" comment="队列">
-      <change afterPath="$PROJECT_DIR$/src/IO/FileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/StackTest.java" afterDir="false" />
+    <list default="true" id="61796c96-91ec-478b-8d5e-a88043864dca" name="Default" comment="file">
+      <change afterPath="$PROJECT_DIR$/src/IO/InputStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO/Second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DaemonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_1/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_10/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_10/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_10/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_10/BookPc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_10/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_10/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_10/DuoTaiDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_10/DuoTaiDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_11/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_11/Single.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_11/Single2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_12/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_12/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_13/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_2/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_3/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_3/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_4/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_4/FunctionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_4/Test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_5/ArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_5/ArrayDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_5/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_6/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_6/CarDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_6/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_6/PersonDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_7/ConsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_7/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_7/MainDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_7/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_7/StaticCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_7/StaticCodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_7/StaticDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_7/StaticDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Day_8/SingleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/FileTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,25 +101,25 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.FileTest">
+  <component name="RunManager" selected="Application.DaemonTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.DequeTest" />
+    <configuration name="DaemonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.DaemonTest" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IO.FileTest" />
+    <configuration name="InputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.InputStreamTest" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -101,13 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.IteratorTest" />
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.Second" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="IO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.PriorityQueueTest" />
+    <configuration name="ThreadStatus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadStatus" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +169,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.StackTest" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadTest" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.IteratorTest" />
-        <item itemvalue="Application.StackTest" />
-        <item itemvalue="Application.DequeTest" />
-        <item itemvalue="Application.PriorityQueueTest" />
+        <item itemvalue="Application.DaemonTest" />
+        <item itemvalue="Application.ThreadStatus" />
+        <item itemvalue="Application.ThreadTest" />
+        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.InputStreamTest" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +258,7 @@
       <workItem from="1585298890380" duration="2883000" />
       <workItem from="1585302292875" duration="4588000" />
       <workItem from="1585397397095" duration="16622000" />
-      <workItem from="1585646477940" duration="6384000" />
+      <workItem from="1585646477940" duration="21029000" />
     </task>
     <task id="LOCAL-00001" summary="0.1">
       <created>1583591247634</created>
@@ -255,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585566764811</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="file">
+      <created>1585656578074</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585656578074</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,13 +325,14 @@
     <MESSAGE value="0.1" />
     <MESSAGE value="Set" />
     <MESSAGE value="队列" />
-    <option name="LAST_COMMIT_MESSAGE" value="队列" />
+    <MESSAGE value="file" />
+    <option name="LAST_COMMIT_MESSAGE" value="file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1585563161962">
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1585832994176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585563161962" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585832994176" />
     <state x="714" y="105" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583143709027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -293,30 +341,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="270" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584362990942" />
-    <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1585566764411">
+    <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1585656577521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="594" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585566764411" />
+    <state x="594" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585656577521" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584368030943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584368030943" />
-    <state width="914" height="280" key="GridCell.Tab.0.bottom" timestamp="1585656478928">
+    <state width="914" height="280" key="GridCell.Tab.0.bottom" timestamp="1585834952470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585656478928" />
-    <state width="914" height="280" key="GridCell.Tab.0.center" timestamp="1585656478928">
+    <state width="914" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585834952470" />
+    <state width="914" height="280" key="GridCell.Tab.0.center" timestamp="1585834952470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585656478928" />
-    <state width="914" height="280" key="GridCell.Tab.0.left" timestamp="1585656478928">
+    <state width="914" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585834952470" />
+    <state width="914" height="280" key="GridCell.Tab.0.left" timestamp="1585834952470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585656478928" />
-    <state width="914" height="280" key="GridCell.Tab.0.right" timestamp="1585656478928">
+    <state width="914" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585834952470" />
+    <state width="914" height="280" key="GridCell.Tab.0.right" timestamp="1585834952470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585656478928" />
+    <state width="914" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585834952470" />
     <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1585404215275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -333,14 +381,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585404215275" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1585401338764">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1585658417562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585401338764" />
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585566766009">
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585658417562" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585656580795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585566766009" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585656580795" />
     <state x="1232" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585566744835">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
