@@ -5,10 +5,7 @@ public class ThreadTest1 implements Runnable{
 
     @Override
     public void run() {
-        while (true){
-            if (numbers <= 0) {
-                break;
-            }
+        while (numbers > 0) {
 
             try {
                 Thread.sleep(200);

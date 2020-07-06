@@ -2,58 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61796c96-91ec-478b-8d5e-a88043864dca" name="Default" comment="线程">
-      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/IO/FileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/IO/First.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/IO/InputStreamTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/IO/Second.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/TreeSet/AgeComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/TreeSet/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/TreeSet/TreeSetDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/TreeSet/TreeSetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/DequeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/EnumMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/EqualsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/IteratorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/ListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/MapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/PriorityQueueTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/PropertiesTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/QueueTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/SetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/StackTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/Student1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/TreeMapTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/TreeMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/collection/UserComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/generics/GenericsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/hashset/HashSetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/hashset/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/map/AgeComparaTor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/map/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/map/HashMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/map/MapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/map/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/map/TreeMapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/swing/NotHelloWordFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/swing/NotHelloWorldComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/swing/NotHemmoWord$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/swing/NotHemmoWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/swing/SimpleFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/swing/SwingTest$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java_Learn/swing/SwingTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/commons-io-2.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Learn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread/DaemonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread/ThreadStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread/ThreadTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Thread/ThreadTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Learn/Thread/ThreadTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/ThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/ThreadTest1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -102,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AsinInfo/partner-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DesignPattern/AbstractFactoryPattern" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -115,24 +67,30 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\Java\Java_Learn\src\DesignPattern\AbstractFactoryPattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DesignPattern.AbstractFactoryPattern" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\work\Java\Java_Learn\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadTest1">
+  <component name="RunManager" selected="Application.SingletonPatternDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DaemonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.DaemonTest" />
+    <configuration name="AbstractFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.AbstractFactoryPattern.AbstractFactoryPatternDemo" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="DesignPattern.AbstractFactoryPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,13 +98,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Date" />
+    <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.FactoryPattern.FactoryPatternDemo" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="DesignPattern.FactoryPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.SingletonPattern.SingletonPatternDemo" />
+      <module name="Java_Learn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.SingletonPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,20 +160,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.test" />
-      <module name="Java_Learn" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -219,19 +177,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DaemonTest" />
-      <item itemvalue="Application.Date" />
-      <item itemvalue="Application.test" />
       <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.ThreadTest1" />
+      <item itemvalue="Application.FactoryPatternDemo" />
+      <item itemvalue="Application.AbstractFactoryPatternDemo" />
+      <item itemvalue="Application.SingletonPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonPatternDemo" />
+        <item itemvalue="Application.AbstractFactoryPatternDemo" />
+        <item itemvalue="Application.FactoryPatternDemo" />
         <item itemvalue="Application.ThreadTest1" />
         <item itemvalue="Application.ThreadTest" />
-        <item itemvalue="Application.DaemonTest" />
-        <item itemvalue="Application.Date" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +234,10 @@
       <workItem from="1593527246355" duration="1549000" />
       <workItem from="1593612502326" duration="2382000" />
       <workItem from="1593678302121" duration="46000" />
-      <workItem from="1593695690943" duration="699000" />
+      <workItem from="1593695690943" duration="3262000" />
+      <workItem from="1593738596732" duration="1834000" />
+      <workItem from="1593997076428" duration="25000" />
+      <workItem from="1593998336734" duration="8131000" />
     </task>
     <task id="LOCAL-00001" summary="0.1">
       <created>1583591247634</created>
@@ -368,14 +329,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="线程" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1593696608432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1593696608432" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593530678605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593530678605" />
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1593695869691">
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1594001885968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593695869691" />
+    <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594001885968" />
     <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1589202103393">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -384,22 +349,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593678345928" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1593695815252">
+    <state width="916" height="270" key="GridCell.Tab.0.bottom" timestamp="1594004602998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593695815252" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1593695815252">
+    <state width="916" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594004602998" />
+    <state width="916" height="270" key="GridCell.Tab.0.center" timestamp="1594004602998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593695815252" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1593695815252">
+    <state width="916" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594004602998" />
+    <state width="916" height="270" key="GridCell.Tab.0.left" timestamp="1594004602998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593695815252" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1593695815252">
+    <state width="916" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594004602998" />
+    <state width="916" height="270" key="GridCell.Tab.0.right" timestamp="1594004602998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593695815252" />
+    <state width="916" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594004602998" />
     <state width="1053" height="347" key="GridCell.Tab.1.bottom" timestamp="1589205485500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -424,13 +389,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585888045895" />
+    <state x="1233" y="186" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594005427896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1233" y="186" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594005427896" />
     <state x="1232" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589202109555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1232" y="440" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589202109555" />
+    <state x="662" y="252" width="596" height="536" key="find.popup" timestamp="1594003293159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="252" width="596" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594003293159" />
     <state x="492" y="84" width="1251" height="795" key="new project wizard" timestamp="1585903367245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="492" y="84" width="1251" height="795" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585903367245" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1594003285150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594003285150" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594003288691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594003288691" />
   </component>
 </project>
