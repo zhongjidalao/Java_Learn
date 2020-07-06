@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61796c96-91ec-478b-8d5e-a88043864dca" name="Default" comment="线程">
+    <list default="true" id="61796c96-91ec-478b-8d5e-a88043864dca" name="Default" comment="多线程">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Thread/ThreadTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Learn/Thread/ThreadTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread/ThreadTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/ThreadTest1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <recent name="D:\work\Java\Java_Learn\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SingletonPatternDemo">
+  <component name="RunManager" selected="Application.SingletonLazyDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -112,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.SingletonPattern.SingletonPatternDemo" />
+    <configuration name="SingletonLazyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.SingletonPattern.SingletonLazyDemo" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -126,13 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.ThreadTest" />
+    <configuration name="SingletonPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.SingletonPattern.SingletonPatternDemo" />
       <module name="Java_Learn" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="DesignPattern.SingletonPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,19 +175,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadTest" />
       <item itemvalue="Application.ThreadTest1" />
       <item itemvalue="Application.FactoryPatternDemo" />
       <item itemvalue="Application.AbstractFactoryPatternDemo" />
       <item itemvalue="Application.SingletonPatternDemo" />
+      <item itemvalue="Application.SingletonLazyDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonLazyDemo" />
         <item itemvalue="Application.SingletonPatternDemo" />
         <item itemvalue="Application.AbstractFactoryPatternDemo" />
         <item itemvalue="Application.FactoryPatternDemo" />
         <item itemvalue="Application.ThreadTest1" />
-        <item itemvalue="Application.ThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +235,7 @@
       <workItem from="1593695690943" duration="3262000" />
       <workItem from="1593738596732" duration="1834000" />
       <workItem from="1593997076428" duration="25000" />
-      <workItem from="1593998336734" duration="8131000" />
+      <workItem from="1593998336734" duration="10368000" />
     </task>
     <task id="LOCAL-00001" summary="0.1">
       <created>1583591247634</created>
@@ -302,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589202103980</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="多线程">
+      <created>1594015874740</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594015874740</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +331,8 @@
     <MESSAGE value="队列" />
     <MESSAGE value="file" />
     <MESSAGE value="线程" />
-    <option name="LAST_COMMIT_MESSAGE" value="线程" />
+    <MESSAGE value="多线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1593696608432">
@@ -341,46 +347,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1245" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594001885968" />
-    <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1589202103393">
+    <state x="1183" y="413" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594018584329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="594" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589202103393" />
+    <state x="1183" y="413" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1594018584329" />
+    <state x="594" y="113" key="CommitChangelistDialog2" timestamp="1594015874245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594015874245" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593678345928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593678345928" />
-    <state width="916" height="270" key="GridCell.Tab.0.bottom" timestamp="1594004602998">
+    <state width="914" height="267" key="GridCell.Tab.0.bottom" timestamp="1594018921092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594004602998" />
-    <state width="916" height="270" key="GridCell.Tab.0.center" timestamp="1594004602998">
+    <state width="914" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594018921092" />
+    <state width="914" height="267" key="GridCell.Tab.0.center" timestamp="1594018921092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594004602998" />
-    <state width="916" height="270" key="GridCell.Tab.0.left" timestamp="1594004602998">
+    <state width="914" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594018921092" />
+    <state width="914" height="267" key="GridCell.Tab.0.left" timestamp="1594018921092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594004602998" />
-    <state width="916" height="270" key="GridCell.Tab.0.right" timestamp="1594004602998">
+    <state width="914" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594018921092" />
+    <state width="914" height="267" key="GridCell.Tab.0.right" timestamp="1594018921092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594004602998" />
-    <state width="1053" height="347" key="GridCell.Tab.1.bottom" timestamp="1589205485500">
+    <state width="914" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594018921092" />
+    <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1594015906300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1053" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589205485500" />
-    <state width="1053" height="347" key="GridCell.Tab.1.center" timestamp="1589205485500">
+    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594015906300" />
+    <state width="914" height="347" key="GridCell.Tab.1.center" timestamp="1594015906300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1053" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589205485500" />
-    <state width="1053" height="347" key="GridCell.Tab.1.left" timestamp="1589205485499">
+    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594015906300" />
+    <state width="914" height="347" key="GridCell.Tab.1.left" timestamp="1594015906300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1053" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589205485499" />
-    <state width="1053" height="347" key="GridCell.Tab.1.right" timestamp="1589205485500">
+    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594015906300" />
+    <state width="914" height="347" key="GridCell.Tab.1.right" timestamp="1594015906300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1053" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589205485500" />
+    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594015906300" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1593530604263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
