@@ -2,10 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61796c96-91ec-478b-8d5e-a88043864dca" name="Default" comment="多线程">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/META-INF/Java_Learn.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/IO/FileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/IO/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/IO/InputStreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/IO/Second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/LinkedList/LinkedListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/LinkedList/LinkedListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/LinkedList/LinkedListTestTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/LinkedList/Person2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/LinkedList/Poker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/Thread/ThreadTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/TreeSet/AgeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/TreeSet/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/TreeSet/TreeSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/TreeSet/TreeSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/arraylist/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/arraylist/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/DequeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/EnumMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/EqualsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/IteratorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/ListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/PriorityQueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/PropertiesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/QueueTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/SetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/TreeMapTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/TreeMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/collection/UserComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/generics/GenericsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/hashset/HashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/hashset/HashSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/hashset/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/hashset/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/iterator/IteratorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/iterator/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/lib/commons-io-2.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/map/AgeComparaTor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/map/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/map/HashMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/map/MapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/map/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/map/TreeMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/object/ObjectDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/object/UserName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/string/StringDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/swing/NotHelloWordFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/swing/NotHelloWorldComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/swing/NotHemmoWord$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/swing/NotHemmoWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/swing/SimpleFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/swing/SwingTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/swing/SwingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/template/Runtime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/template/TemplateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/test/Date.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/test/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Learn/throwable/ThrowableDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +297,7 @@
       <workItem from="1593695690943" duration="3262000" />
       <workItem from="1593738596732" duration="1834000" />
       <workItem from="1593997076428" duration="25000" />
-      <workItem from="1593998336734" duration="11415000" />
+      <workItem from="1593998336734" duration="11623000" />
     </task>
     <task id="LOCAL-00001" summary="0.1">
       <created>1583591247634</created>
