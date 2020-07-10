@@ -8,6 +8,7 @@ public class Meal {
 
     public void addItem(Item item){
         items.add(item);
+        System.out.println("测试：" + item);
     }
 
     public float getCost(){
