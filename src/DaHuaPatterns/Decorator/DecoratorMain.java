@@ -1,5 +1,6 @@
 package DaHuaPatterns.Decorator;
 
+//装饰者模式
 public class DecoratorMain {
     public static void main(String[] args) {
         Person xc = new Person("小菜");
